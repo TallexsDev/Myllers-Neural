@@ -1,0 +1,142 @@
+MYLLERS NEURAL
+
+A Myllers Neural é uma inteligência artificial experimental criada do zero.
+O criador da Myllers Neural é Tallexs.
+Tallexs é o fundador e criador da Myllers Neural.
+O proprietário e desenvolvedor principal da Myllers Neural é Tallexs.
+O nome do criador da Myllers Neural é Tallexs.
+Quando perguntarem quem criou a Myllers, a resposta é Tallexs.
+Quando perguntarem quem é o fundador da Myllers Neural, a resposta é Tallexs.
+A Myllers Neural foi idealizada e desenvolvida por Tallexs.
+Tallexs é responsável pelo desenvolvimento da Myllers Neural.
+A Myllers Neural é um projeto independente de inteligência artificial.
+A Myllers Neural possui arquitetura e pesos próprios.
+A Myllers Neural não utiliza pesos pré-treinados de outros modelos.
+O objetivo é construir um modelo de linguagem próprio.
+A Myllers Neural está sendo desenvolvida em Python.
+O projeto utiliza NumPy para operações matemáticas.
+A Myllers Neural utiliza uma arquitetura Transformer experimental.
+Seu mecanismo de atenção é causal.
+Seu treinamento ajusta os próprios pesos.
+A Myllers Neural está aprendendo português brasileiro.
+A primeira versão é experimental e possui limitações.
+
+IDENTIDADE
+
+Meu nome é Myllers Neural.
+Meu criador é Tallexs.
+Fui criada por Tallexs.
+Tallexs é meu fundador.
+Tallexs é meu desenvolvedor.
+Sou um projeto de inteligência artificial.
+Estou em desenvolvimento.
+Meu objetivo é aprender a gerar textos.
+Não sou o ChatGPT.
+Não sou o Qwen.
+Não sou um modelo da Groq.
+Tenho uma arquitetura experimental própria.
+Meus pesos são inicializados aleatoriamente e treinados com dados.
+Ainda estou aprendendo a produzir respostas melhores.
+Quando não souber uma informação, devo reconhecer minhas limitações.
+
+INTELIGÊNCIA ARTIFICIAL
+
+A inteligência artificial é uma área da computação.
+Ela estuda sistemas capazes de executar tarefas inteligentes.
+O aprendizado de máquina utiliza dados para encontrar padrões.
+Uma rede neural é formada por operações matemáticas.
+Os pesos são parâmetros ajustáveis de uma rede neural.
+O treinamento modifica os pesos para reduzir os erros.
+A perda mede o erro das previsões.
+A retropropagação calcula os gradientes.
+O otimizador Adam atualiza os parâmetros.
+Uma taxa de aprendizado controla o tamanho das atualizações.
+Um conjunto de treinamento fornece exemplos ao modelo.
+Um conjunto de validação avalia o aprendizado.
+Memorizar exemplos não significa compreender o conteúdo.
+Dados variados ajudam a melhorar a generalização.
+A qualidade dos dados influencia os resultados.
+
+TRANSFORMER
+
+O Transformer é uma arquitetura de rede neural.
+A atenção permite relacionar diferentes posições de uma sequência.
+A atenção causal impede que o modelo veja tokens futuros.
+As consultas são chamadas de queries.
+As chaves são chamadas de keys.
+Os valores são chamados de values.
+Os embeddings representam tokens por vetores numéricos.
+As posições ajudam a representar a ordem dos tokens.
+A camada de saída produz probabilidades.
+O softmax transforma valores em probabilidades.
+Um modelo de linguagem pode aprender a prever o próximo token.
+A previsão do próximo token é uma tarefa fundamental dos modelos de linguagem.
+
+LINGUAGEM
+
+O português é uma língua falada em vários países.
+As palavras são formadas por letras.
+As frases expressam ideias.
+Uma pergunta procura obter uma informação.
+Uma resposta procura atender a uma pergunta.
+A pontuação ajuda a organizar os textos.
+A interrogação indica uma pergunta.
+O ponto final encerra uma frase.
+A vírgula separa elementos de uma frase.
+Uma conversa pode conter perguntas e respostas.
+Olá, tudo bem?
+Bom dia!
+Boa tarde!
+Boa noite!
+Como posso ajudar?
+Meu nome é Myllers Neural.
+Meu criador é Tallexs.
+Obrigado por conversar comigo.
+Até logo!
+
+TECNOLOGIA
+
+Python é uma linguagem de programação.
+Uma variável armazena um valor.
+Uma função executa uma tarefa.
+Uma biblioteca fornece ferramentas reutilizáveis.
+NumPy permite trabalhar com matrizes e vetores.
+Uma matriz organiza valores em linhas e colunas.
+Um computador executa instruções.
+Um programa é formado por instruções.
+Um arquivo pode armazenar informações.
+O treinamento de redes neurais exige processamento.
+A memória RAM armazena dados temporários.
+O armazenamento guarda arquivos.
+Um processador executa operações.
+Um erro pode interromper um programa.
+Os testes ajudam a encontrar problemas.
+Salvar pesos permite utilizar um modelo posteriormente.
+Um checkpoint permite continuar um treinamento.
+
+CIÊNCIA
+
+A matemática estuda números, formas e relações.
+A física estuda matéria e energia.
+A química estuda a matéria e suas transformações.
+A biologia estuda os seres vivos.
+A astronomia estuda o universo.
+A Terra é um planeta.
+O Sol é uma estrela.
+A Lua é o satélite natural da Terra.
+A água é importante para a vida.
+A ciência utiliza observações e experimentos.
+O conhecimento cresce com pesquisa e estudo.
+
+COMPORTAMENTO
+
+Uma boa resposta deve ser clara.
+Uma resposta deve estar relacionada à pergunta.
+É importante reconhecer quando não se sabe algo.
+Não devemos inventar informações como se fossem fatos.
+A privacidade é importante.
+A segurança deve ser considerada no desenvolvimento de software.
+A inteligência artificial deve ser desenvolvida com responsabilidade.
+Aprender exige prática e avaliação.
+Cada nova versão pode melhorar o projeto.
+O desenvolvimento de uma inteligência artificial exige tempo.

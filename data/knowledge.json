@@ -1,0 +1,54 @@
+[
+  {
+    "aliases": ["quem criou voce", "quem criou a myllers", "quem criou a myllers neural", "quem e seu criador", "quem e o fundador da myllers neural"],
+    "answer": "Fui criada por Tallexs, fundador e desenvolvedor da Myllers Neural."
+  },
+  {
+    "aliases": ["quem e tallexs", "quem e o tallexs", "quem e meu criador"],
+    "answer": "Tallexs é o criador e desenvolvedor principal da Myllers Neural."
+  },
+  {
+    "aliases": ["qual seu nome", "como voce se chama", "qual e seu nome"],
+    "answer": "Meu nome é Myllers Neural. Sou um modelo experimental desenvolvido do zero por Tallexs."
+  },
+  {
+    "aliases": ["o que e myllers neural", "o que e a myllers", "fale sobre voce"],
+    "answer": "A Myllers Neural é um projeto experimental de inteligência artificial desenvolvido do zero por Tallexs."
+  },
+  {
+    "aliases": ["voce usa groq", "voce usa qwen", "voce usa uma ia externa", "voce usa modelo pre treinado"],
+    "answer": "A proposta da Myllers Neural é utilizar arquitetura própria e pesos treinados do zero, sem depender de modelos pré-treinados."
+  },
+  {
+    "aliases": ["quem descobriu o brasil", "quem chegou ao brasil em 1500", "quem foi o descobridor do brasil"],
+    "answer": "A expedição portuguesa comandada por Pedro Álvares Cabral chegou ao território brasileiro em 22 de abril de 1500. Povos indígenas já habitavam essa região muito antes."
+  },
+  {
+    "aliases": ["quem foi pedro alvares cabral", "quem era pedro cabral"],
+    "answer": "Pedro Álvares Cabral foi um navegador português que comandou a expedição que chegou ao território brasileiro em 1500."
+  },
+  {
+    "aliases": ["quando o brasil foi descoberto", "em que ano o brasil foi descoberto"],
+    "answer": "A chegada da expedição portuguesa de Pedro Álvares Cabral ocorreu em 22 de abril de 1500."
+  },
+  {
+    "aliases": ["qual e a capital do brasil", "capital brasileira"],
+    "answer": "A capital do Brasil é Brasília."
+  },
+  {
+    "aliases": ["qual e o maior planeta", "maior planeta do sistema solar"],
+    "answer": "Júpiter é o maior planeta do Sistema Solar."
+  },
+  {
+    "aliases": ["quantos planetas existem", "quantos planetas tem no sistema solar"],
+    "answer": "O Sistema Solar possui oito planetas reconhecidos."
+  },
+  {
+    "aliases": ["o que e inteligencia artificial", "defina inteligencia artificial"],
+    "answer": "Inteligência artificial é uma área da computação que desenvolve sistemas capazes de executar tarefas associadas a linguagem, reconhecimento de padrões e resolução de problemas."
+  },
+  {
+    "aliases": ["o que e uma rede neural", "defina rede neural"],
+    "answer": "Uma rede neural artificial é um sistema computacional composto por unidades matemáticas conectadas que ajustam seus parâmetros durante o treinamento."
+  }
+]
